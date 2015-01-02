@@ -2,6 +2,5 @@ feature-one a.txt
 add feature one again
 one branch be merged by four
 feature-four a.txt
-test checkout : add in one
 after merge one in four, modify the a in one, and check whether could checkout 
 in four after modify the a in one
