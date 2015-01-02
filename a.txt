@@ -1,2 +1,2 @@
-feature-two a.txt
+feature-one a.txt
 add feature one again
