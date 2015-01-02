@@ -1,2 +1,6 @@
+feature-one a.txt
+add feature one again
+one branch be merged by four
 feature-four a.txt
 pull in branch one and one is merged by four
+test checkout : add in one
