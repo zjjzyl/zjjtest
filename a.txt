@@ -1,6 +1,1 @@
 feature-four a.txt
-add feature four again
-one branch be merged by four
-feature-four a.txt
-pull in branch one and one is merged by four
-test checkout : add in one
